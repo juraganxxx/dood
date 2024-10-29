@@ -1,7 +1,10 @@
+import Header from "./components/organisms/Header";
+
 function App() {
   return (
     <>
-      <header className="flex flex-col items-center justify-center">
+    <Header />
+      {/* <header className="flex flex-col items-center justify-center">
         <h1 className='uppercase text-3xl font-bold mb-6'>Asian Hot</h1>
         <div className="relative w-full max-w-xs">
           <div className="flex">
@@ -20,7 +23,7 @@ function App() {
             </button>
           </div>
         </div>
-      </header>
+      </header> */}
     </>
   );
 }
