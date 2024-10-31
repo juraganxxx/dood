@@ -1,8 +1,8 @@
 import SearchBar from '../molecules/SearchBar';
 
 const Header = () => (
-  <header className="flex flex-col items-center justify-center">
-    <h1 className='uppercase text-3xl font-bold mb-6'>Asian Hot</h1>
+  <header className="py-3 flex flex-col items-center justify-center bg-gray-200">
+    <h1 className='uppercase text-3xl font-bold mb-3'>Juraganxxx</h1>
     <SearchBar />
   </header>
 );
