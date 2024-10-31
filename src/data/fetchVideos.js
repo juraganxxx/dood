@@ -1,0 +1,171 @@
+const data = {
+  "msg": "OK",
+  "status": 200,
+  "result": {
+    "results_total": "14",
+    "files": [
+      {
+        "uploaded": "2024-10-24 12:39:49",
+        "views": "189",
+        "file_code": "co9g7gv7zbmv",
+        "download_url": "https://dood.li/d/co9g7gv7zbmv",
+        "single_img": "https://img.doodcdn.co/snaps/ml3do0uw8bl3qdh6.jpg",
+        "public": "1",
+        "title": "Enak Di Dapur Sama Binor [t12z]",
+        "fld_id": "0",
+        "length": "201",
+        "canplay": 1,
+        "splash_img": "https://img.doodcdn.co/splash/ml3do0uw8bl3qdh6.jpg"
+      },
+      {
+        "single_img": "https://img.doodcdn.co/snaps/6u3babeu54m3bmps.jpg",
+        "download_url": "https://dood.li/d/m4i0txxkhth0",
+        "public": "1",
+        "views": "376",
+        "uploaded": "2024-10-20 13:59:48",
+        "file_code": "m4i0txxkhth0",
+        "fld_id": "0",
+        "length": "408",
+        "splash_img": "https://img.doodcdn.co/splash/6u3babeu54m3bmps.jpg",
+        "canplay": 1,
+        "title": "Abg Mesum Bareng Doi Lagi Sange Berat [kzo0]"
+      },
+      {
+        "download_url": "https://dood.li/d/7mab71kf3enp",
+        "single_img": "https://img.doodcdn.co/snaps/p6yywbdn35yzfup2.jpg",
+        "public": "1",
+        "uploaded": "2024-10-19 04:41:30",
+        "views": "352",
+        "file_code": "7mab71kf3enp",
+        "fld_id": "0",
+        "length": "681",
+        "canplay": 1,
+        "splash_img": "https://img.doodcdn.co/splash/p6yywbdn35yzfup2.jpg",
+        "title": "Bokep Indo Paksa Bocil Jilbab Sampai Nangis -  COM"
+      },
+      {
+        "fld_id": "0",
+        "length": "457",
+        "splash_img": "https://img.doodcdn.co/splash/0vui9kbxa4jk2kio.jpg",
+        "canplay": 1,
+        "title": "KontenThreesomeGG",
+        "download_url": "https://dood.li/d/9qsho3r4gv3v",
+        "single_img": "https://img.doodcdn.co/snaps/0vui9kbxa4jk2kio.jpg",
+        "public": "1",
+        "views": "176",
+        "uploaded": "2024-10-19 04:41:01",
+        "file_code": "9qsho3r4gv3v"
+      },
+      {
+        "file_code": "03mfwd486dvl",
+        "views": "353",
+        "uploaded": "2024-10-17 21:15:12",
+        "public": "1",
+        "single_img": "https://img.doodcdn.co/snaps/ges9umizp92vh4lp.jpg",
+        "download_url": "https://dood.li/d/03mfwd486dvl",
+        "title": "SenyumanAyangIsap",
+        "splash_img": "https://img.doodcdn.co/splash/ges9umizp92vh4lp.jpg",
+        "canplay": 1,
+        "fld_id": "0",
+        "length": "97"
+      },
+      {
+        "views": "202",
+        "uploaded": "2024-10-17 12:03:29",
+        "file_code": "epl2n8695jtk",
+        "single_img": "https://img.doodcdn.co/snaps/gmohlafx9t13dqzm.jpg",
+        "public": "1",
+        "download_url": "https://dood.li/d/epl2n8695jtk",
+        "title": "Bokep Terbaru Ngewe Binor Kebaya Ungu Yona -  COM",
+        "fld_id": "0",
+        "length": "409",
+        "splash_img": "https://img.doodcdn.co/splash/gmohlafx9t13dqzm.jpg",
+        "canplay": 1
+      },
+      {
+        "file_code": "hqqdz901zzkp",
+        "uploaded": "2024-10-17 02:14:46",
+        "views": "192",
+        "single_img": "https://img.doodcdn.co/snaps/w0qf2o193j4u7q5f.jpg",
+        "download_url": "https://dood.li/d/hqqdz901zzkp",
+        "public": "1",
+        "title": "Siang Hari Kegeraahan [bdb6]",
+        "canplay": 1,
+        "splash_img": "https://img.doodcdn.co/splash/w0qf2o193j4u7q5f.jpg",
+        "fld_id": "0",
+        "length": "692"
+      },
+      {
+        "views": "439",
+        "uploaded": "2024-10-16 05:20:18",
+        "file_code": "bisyl7wf1k72",
+        "single_img": "https://img.doodcdn.co/snaps/laztoubd0m8fflis.jpg",
+        "download_url": "https://dood.li/d/bisyl7wf1k72",
+        "public": "1",
+        "title": "Bayangin Aja Dulu Kalo Itu Pacar Lo [8268]",
+        "fld_id": "0",
+        "length": "3179",
+        "splash_img": "https://img.doodcdn.co/splash/laztoubd0m8fflis.jpg",
+        "canplay": 1
+      },
+      {
+        "public": "1",
+        "single_img": "https://img.doodcdn.co/snaps/blez64rans5c93tc.jpg",
+        "download_url": "https://dood.li/d/x87sh8x5tf1e",
+        "file_code": "x87sh8x5tf1e",
+        "uploaded": "2024-10-16 00:58:15",
+        "views": "179",
+        "canplay": 1,
+        "splash_img": "https://img.doodcdn.co/splash/blez64rans5c93tc.jpg",
+        "fld_id": "0",
+        "length": "752",
+        "title": "Cewek Lokal Vs Bule"
+      },
+      {
+        "single_img": "https://img.doodcdn.co/snaps/kn3qz3ljsiw33lkp.jpg",
+        "public": "1",
+        "download_url": "https://dood.li/d/318h2gbl72h5",
+        "views": "232",
+        "uploaded": "2024-10-14 16:56:38",
+        "file_code": "318h2gbl72h5",
+        "length": "862",
+        "fld_id": "0",
+        "splash_img": "https://img.doodcdn.co/splash/kn3qz3ljsiw33lkp.jpg",
+        "canplay": 1,
+        "title": "kvsuoahcgs64"
+      },
+      {
+        "public": "1",
+        "single_img": "https://img.doodcdn.co/snaps/bzjxhu5g5miloz8x.jpg",
+        "download_url": "https://dood.li/d/erlvggfa9dow",
+        "uploaded": "2024-10-14 15:53:24",
+        "views": "257",
+        "file_code": "erlvggfa9dow",
+        "fld_id": "0",
+        "length": "120",
+        "canplay": 1,
+        "splash_img": "https://img.doodcdn.co/splash/bzjxhu5g5miloz8x.jpg",
+        "title": "Crot di Wajah Zilla"
+      },
+      {
+        "file_code": "f4m07dklefbp",
+        "uploaded": "2024-10-12 13:16:03",
+        "views": "126",
+        "download_url": "https://dood.li/d/f4m07dklefbp",
+        "single_img": "https://img.doodcdn.co/snaps/qwi8f4otxayhyvxs.jpg",
+        "public": "1",
+        "title": "Pasya Pratiwi Toiti Ketua OSIS MAN 1 Kab  Gorontalo dan Guru 1272x720",
+        "canplay": 1,
+        "splash_img": "https://img.doodcdn.co/splash/qwi8f4otxayhyvxs.jpg",
+        "length": "353",
+        "fld_id": "0"
+      }
+    ],
+    "per_page_limit": 100,
+    "results": 14,
+    "total_pages": 1
+  },
+  "server_time": "2024-10-31 04:21:46"
+}
+
+export default data;
