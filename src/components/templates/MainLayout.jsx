@@ -1,10 +1,13 @@
+// src/templates/MainLayout.js
 import Header from '../organisms/Header';
+import Footer from '../organisms/Footer';
 
-const MainLayout = ({ children, searchTerm, setSearchTerm }) => {
+const MainLayout = ({ children }) => {
   return (
-    <div className="layout p-2">
-      <Header searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
-      <main>{children}</main>
+    <div className="">
+      <Header />
+      <main className='px-2'>{children}</main>
+      <Footer />
     </div>
   );
 };
